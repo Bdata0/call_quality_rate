@@ -108,10 +108,11 @@ The project follows a structured organization based on Domain-Driven Design (DDD
 ### Contributing
 
 Contributions are welcome! Please follow these guidelines when contributing:
-    *Fork the repository.
-    *Create a new branch for your feature or bug fix.
-    *Make your changes and commit with descriptive messages.
-    *Submit a pull request.
+
+- Fork the repository.
+- Create a new branch for your feature or bug fix.
+- Make your changes and commit with descriptive messages.
+- Submit a pull request.
 
 ### License
 
