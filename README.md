@@ -93,6 +93,7 @@ The project follows a structured organization based on Domain-Driven Design (DDD
 │   ├── test_diarization.py
 │   ├── test_sentiment_analysis.py
 │   ├── test_google_sheets.py
+│   ├── test_integration.py
 │   └── ...
 ├── Dockerfile
 ├── requirements.txt
