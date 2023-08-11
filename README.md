@@ -66,6 +66,11 @@ The project follows a structured organization based on Domain-Driven Design (DDD
 ```css
 # project/
 ├── app.py
+├── data/
+│   ├── processed/
+│   ├── raw/
+│   │   ├── audio.mp3
+│   │   └── ...
 ├── domain/
 │   ├── __init__.py
 │   ├── transcription/
